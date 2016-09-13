@@ -1,0 +1,16 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\obj\Debug\CefGlue.Client.csprojResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.BusinessForms.resources
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.MainForm.resources
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\obj\Debug\CefGlue.Client.csproj.GenerateResource.Cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.exe.config
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.exe
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.Client.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\PwBusiness.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.WindowsForms.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\Xilium.CefGlue.xml
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\bin\Debug\PwBusiness.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.exe
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Client\obj\Debug\Xilium.CefGlue.Client.pdb
