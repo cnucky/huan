@@ -1,0 +1,16 @@
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\config\sysConfig.txt
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\LazyCat.KeepConn.exe
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\LazyCat.KeepConn.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\Common.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\nunit.framework.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\HtmlAgilityPack.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\FastVerCode.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\Common.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\HtmlAgilityPack.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\bin\debug2\HtmlAgilityPack.xml
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\obj\debug2\LazyCat.KeepConn.csprojResolveAssemblyReference.cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\obj\debug2\LazyCat.KeepConn.Form1.resources
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\obj\debug2\LazyCat.KeepConn.Properties.Resources.resources
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\obj\debug2\LazyCat.KeepConn.csproj.GenerateResource.Cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\obj\debug2\LazyCat.KeepConn.exe
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.KeepConn\obj\debug2\LazyCat.KeepConn.pdb

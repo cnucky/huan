@@ -1,0 +1,6 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue\bin\Release\Xilium.CefGlue.xml
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue\bin\Release\Xilium.CefGlue.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue\bin\Release\Xilium.CefGlue.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue\obj\Release\CefGlue.csprojResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue\obj\Release\Xilium.CefGlue.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue\obj\Release\Xilium.CefGlue.pdb

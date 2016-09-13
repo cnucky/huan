@@ -1,0 +1,16 @@
+D:\01 project\3 FastQQ\ChromeWebBrowser.net_1.0.3\example\ChromeTest\Common\bin\Debug\Common.dll
+D:\01 project\3 FastQQ\ChromeWebBrowser.net_1.0.3\example\ChromeTest\Common\bin\Debug\Common.pdb
+D:\01 project\3 FastQQ\ChromeWebBrowser.net_1.0.3\example\ChromeTest\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\ChromeWebBrowser.net_1.0.3\example\ChromeTest\Common\obj\Debug\Common.dll
+D:\01 project\3 FastQQ\ChromeWebBrowser.net_1.0.3\example\ChromeTest\Common\obj\Debug\Common.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\bin\Debug\Common.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\bin\Debug\Common.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\bin\Debug\HtmlAgilityPack.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\bin\Debug\HtmlAgilityPack.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\obj\Debug\Common.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\obj\Debug\Common.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\bin\Debug\HtmlAgilityPack.xml
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\bin\Debug\FastVerCode.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\obj\Debug\Interop.Shell32.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\Common\obj\Debug\Common.csproj.ResolveComReference.cache

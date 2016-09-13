@@ -1,0 +1,14 @@
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.Demo.WinForms.exe.config
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.Demo.WinForms.exe
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.Demo.WinForms.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.Demo.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.Demo.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\bin\x86\debug2\Xilium.CefGlue.xml
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\obj\x86\debug2\CefGlue.Demo.WinForms.csprojResolveAssemblyReference.cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\obj\x86\debug2\Xilium.CefGlue.Demo.Properties.Resources.resources
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\obj\x86\debug2\Xilium.CefGlue.Demo.WebNavigationBox.resources
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\obj\x86\debug2\CefGlue.Demo.WinForms.csproj.GenerateResource.Cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\obj\x86\debug2\Xilium.CefGlue.Demo.WinForms.exe
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Demo.WinForms\obj\x86\debug2\Xilium.CefGlue.Demo.WinForms.pdb

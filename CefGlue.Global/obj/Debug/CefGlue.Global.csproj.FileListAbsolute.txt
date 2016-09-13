@@ -1,0 +1,5 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\bin\Debug\CefGlue.Global.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\bin\Debug\CefGlue.Global.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\obj\Debug\CefGlue.Global.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\obj\Debug\CefGlue.Global.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\obj\Debug\CefGlue.Global.csprojResolveAssemblyReference.cache

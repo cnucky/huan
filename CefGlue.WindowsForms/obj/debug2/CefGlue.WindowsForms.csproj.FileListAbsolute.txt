@@ -1,0 +1,10 @@
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.WindowsForms.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.WindowsForms.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.Demo.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.Demo.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\debug2\Xilium.CefGlue.xml
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\obj\debug2\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\obj\debug2\Xilium.CefGlue.WindowsForms.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\obj\debug2\Xilium.CefGlue.WindowsForms.pdb

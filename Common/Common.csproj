@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0173D2B-B236-49CD-80E7-C5CB68672D56}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Xilium.CefGlue.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'debug2|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\debug2\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastVerCode, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\FastVerCode.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\Lib\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\6 projects\3 IM\Client\Lib\Net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.6.3.13283, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppHelper.cs" />
+    <Compile Include="ConfigHelper.cs" />
+    <Compile Include="GlobalCommon.cs" />
+    <Compile Include="Log\LogFile.cs" />
+    <Compile Include="MyWebClient\MyWebClient.cs" />
+    <Compile Include="Net\AdslHelper.cs" />
+    <Compile Include="Net\Class1.cs" />
+    <Compile Include="Net\ADSL1.cs" />
+    <Compile Include="Net\NetHostIp.cs" />
+    <Compile Include="Net\KuanDai1.cs" />
+    <Compile Include="Net\AdslReconnect.cs" />
+    <Compile Include="HtmlHelper.cs" />
+    <Compile Include="Extends.cs" />
+    <Compile Include="FileHelper.cs" />
+    <Compile Include="MouseKeyBordHelper.cs" />
+    <Compile Include="Log\LogManager.cs" />
+    <Compile Include="Net\RasApi.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomManager.cs" />
+    <Compile Include="Sfz.cs" />
+    <Compile Include="smsaima\AddIgnoreListResp.cs" />
+    <Compile Include="smsaima\AimaInterface.cs" />
+    <Compile Include="smsaima\CancelSMSRecvResp.cs" />
+    <Compile Include="smsaima\DateTimeExtensions.cs" />
+    <Compile Include="smsaima\GetMobilenumResp.cs" />
+    <Compile Include="smsaima\GetMultiMobilenumResp.cs" />
+    <Compile Include="smsaima\GetVcodeAndHoldMobilenumResp.cs" />
+    <Compile Include="smsaima\GetVcodeAndReleaseMobileResp.cs" />
+    <Compile Include="smsaima\HttpTool.cs" />
+    <Compile Include="smsaima\LogonResp.cs" />
+    <Compile Include="smsaima\MultiThreadDemo.cs" />
+    <Compile Include="smsaima\Program.cs" />
+    <Compile Include="smsapi\HttpHelper.cs" />
+    <Compile Include="smsapi\JikeSms.cs" />
+    <Compile Include="smsapi\MySms.cs" />
+    <Compile Include="smsapi\SmsApi.cs" />
+    <Compile Include="Vcode\LianZhongVcode.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="commonkey.pfx" />
+    <None Include="names\first_name.idres" />
+    <None Include="names\second_name.idres" />
+    <None Include="Xilium.CefGlue.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\ips.xml" />
+    <Content Include="config\sysConfig.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

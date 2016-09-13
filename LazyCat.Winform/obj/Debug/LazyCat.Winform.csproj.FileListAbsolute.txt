@@ -1,0 +1,13 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\LazyCat.Winform.exe
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\LazyCat.Winform.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\HtmlAgilityPack.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\PwBusiness.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\PwBusiness.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\HtmlAgilityPack.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\Debug\HtmlAgilityPack.xml
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\Debug\LazyCat.Winform.csprojResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\Debug\LazyCat.Winform.Properties.Resources.resources
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\Debug\Xilium.CefGlue.Client.SendAds.resources
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\Debug\LazyCat.Winform.csproj.GenerateResource.Cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\Debug\LazyCat.Winform.exe
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\Debug\LazyCat.Winform.pdb

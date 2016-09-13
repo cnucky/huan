@@ -1,0 +1,6 @@
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\debug2\LazyCat.Winform.exe
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\bin\debug2\LazyCat.Winform.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\debug2\LazyCat.Winform.Properties.Resources.resources
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\debug2\LazyCat.Winform.csproj.GenerateResource.Cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\debug2\LazyCat.Winform.exe
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\LazyCat.Winform\obj\debug2\LazyCat.Winform.pdb

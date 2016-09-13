@@ -1,0 +1,5 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\DBUtility\bin\Debug\MySql.Data.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

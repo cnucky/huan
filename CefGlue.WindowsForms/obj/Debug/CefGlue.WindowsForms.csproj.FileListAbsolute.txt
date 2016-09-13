@@ -1,0 +1,16 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.WindowsForms.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.WindowsForms.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.xml
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\obj\Debug\CefGlue.WindowsForms.csprojResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\obj\Debug\Xilium.CefGlue.WindowsForms.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.Demo.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Xilium.CefGlue.Demo.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Common.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\HtmlAgilityPack.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\FastVerCode.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\Common.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\HtmlAgilityPack.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\CefGlue.WindowsForms\bin\Debug\HtmlAgilityPack.xml

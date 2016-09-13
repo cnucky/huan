@@ -1,0 +1,5 @@
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\bin\debug2\CefGlue.Global.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\bin\debug2\CefGlue.Global.pdb
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\obj\debug2\CefGlue.Global.csprojResolveAssemblyReference.cache
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\obj\debug2\CefGlue.Global.dll
+D:\QKF\7 projects2\XLIUM\xilium-xilium.cefglue-820e4919a0f1\xilium-xilium.cefglue-820e4919a0f1\CefGlue.Global\obj\debug2\CefGlue.Global.pdb

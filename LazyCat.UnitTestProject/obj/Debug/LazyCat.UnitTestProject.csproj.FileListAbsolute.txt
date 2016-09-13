@@ -1,0 +1,15 @@
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\LazyCat.UnitTestProject.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\LazyCat.UnitTestProject.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\PwBusiness.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\PwBusiness.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\obj\Debug\LazyCat.UnitTestProject.csprojResolveAssemblyReference.cache
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\obj\Debug\LazyCat.UnitTestProject.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\obj\Debug\LazyCat.UnitTestProject.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\HtmlAgilityPack.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\HtmlAgilityPack.pdb
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\HtmlAgilityPack.xml
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\app.config
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\LazyCat.UnitTestProject.dll.config
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\Common.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\FastVerCode.dll
+D:\01 project\3 FastQQ\xl\xilium-xilium.cefglue-820e4919a0f1\LazyCat.UnitTestProject\bin\Debug\Common.pdb
